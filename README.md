@@ -213,7 +213,7 @@ For questions or feedback, feel free to reach out:
 
 - **Name**: Aman Choudhary
 - **Email**: caman.neo01@gmail.com
-- **GitHub**: [yourusername](https://github.com/amankc-neo)
+- **GitHub**: [amankc-neo](https://github.com/amankc-neo)
 
 ---
 
